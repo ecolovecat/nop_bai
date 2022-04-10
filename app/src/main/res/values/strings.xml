@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Block2</string>
+    <string name="text_promt">Pick an animal</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="bird">Bird</string>
+    <string name="pig">Pig</string>
+    <string name="pick">You pick</string>
+    <string-array name="listAnimal">
+        <item>@string/dog</item>
+        <item>@string/cat</item>
+        <item>@string/bird</item>
+        <item>@string/pig</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block2</string>
+    <string name="text_promt">Chọn một con vật</string>
+    <string name="dog">Chó</string>
+    <string name="cat">Mèo</string>
+    <string name="bird">Chim</string>
+    <string name="pig">Lợn</string>
+    <string name="pick">Bạn đã chọn</string>
+</resources>
